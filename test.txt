@@ -1,5 +1,7 @@
+
 pippo 
 pluto
 Mario
 Rossi
-Sei un ___
+pippo
+pluto
