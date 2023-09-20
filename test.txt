@@ -1,2 +1,2 @@
-pippo coca
+pippo
 pluto
